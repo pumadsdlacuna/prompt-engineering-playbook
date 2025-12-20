@@ -1,7 +1,41 @@
-# Repository Template – Technical Playbook
+# Prompt Engineering Playbook
+
+> Practical frameworks, patterns, and examples to design effective prompts for LLMs and Generative AI.  
+> Marcos prácticos, patrones y ejemplos para diseñar prompts efectivos para LLMs y AI generativa.
+
+---
+
+## Overview / Descripción General
 
 **EN**  
-This repository is a reusable template to create technical playbooks, knowledge bases, and structured documentation.
+This repository is a practical playbook for prompt engineering, focused on real-world usage in business, data, and product contexts.  
+It documents patterns, structures, and decision criteria rather than isolated prompts.
 
 **ES**  
-Este repositorio es una plantilla reutilizable para crear playbooks técnicos, bases de conocimiento y documentación estructurada.
+Este repositorio es un playbook práctico de prompt engineering, enfocado en el uso real en contextos de negocio, datos y producto.  
+Documenta patrones, estructuras y criterios de decisión, no solo prompts aislados.
+
+---
+
+## Who is this for? / ¿Para quién es?
+
+**EN**
+- Data & Analytics professionals  
+- Product managers and builders  
+- Engineers and technical leaders  
+- Anyone using LLMs beyond experimentation
+
+**ES**
+- Profesionales de Data & Analytics  
+- Product managers y builders  
+- Ingenieros y líderes técnicos  
+- Personas que usan LLMs más allá de la experimentación
+
+---
+
+## Structure / Estructura del repositorio
+
+```text
+docs/        → Concepts, frameworks, decisions
+examples/    → Real prompt examples and use cases
+assets/      → Diagrams and visuals
