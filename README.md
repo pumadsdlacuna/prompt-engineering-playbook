@@ -35,11 +35,11 @@ Documenta patrones, estructuras y criterios de decisión, no solo prompts aislad
 
 ## Structure / Estructura del repositorio
 
-
+```text
 docs/        → Concepts, frameworks, decisions
 examples/    → Real prompt examples and use cases
 assets/      → Diagrams and visuals
-
+```
 ---
 
 ## What you will find here / Qué encontrarás aquí
