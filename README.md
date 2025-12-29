@@ -52,3 +52,4 @@ assets/      → Diagrams and visuals
 - Decision-support prompts
 - Evaluation and critique patterns
 - Business-oriented prompt structures
+- Prompt evaluation rubric for production-ready prompts
