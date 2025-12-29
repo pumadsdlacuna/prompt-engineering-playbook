@@ -1,7 +1,19 @@
-# Overview
+# Prompt Engineering – Overview
 
-**EN**  
-This document provides a high-level overview of this playbook.
+## EN
+Prompt engineering is not about writing longer prompts.
+It is about **structuring intent, context, and constraints** to guide model behavior.
 
-**ES**  
-Este documento ofrece una visión general del playbook.
+This playbook treats prompts as:
+- Interfaces
+- Contracts
+- Decision artifacts
+
+## ES
+El prompt engineering no se trata de escribir prompts más largos.
+Se trata de **estructurar intención, contexto y restricciones** para guiar el comportamiento del modelo.
+
+Este playbook trata los prompts como:
+- Interfaces
+- Contratos
+- Artefactos de decisión
