@@ -1,5 +1,6 @@
 # Roadmap
 
-- [ ] Add glossary
-- [ ] Add real-world examples
-- [ ] Add diagrams
+- [ ] Add prompt evaluation rubric
+- [ ] Add LLM-specific considerations (GPT, Gemini, Claude)
+- [ ] Add examples for analytics, marketing, and finance
+- [ ] Add anti-patterns
