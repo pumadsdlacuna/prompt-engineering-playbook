@@ -39,3 +39,16 @@ Documenta patrones, estructuras y criterios de decisión, no solo prompts aislad
 docs/        → Concepts, frameworks, decisions
 examples/    → Real prompt examples and use cases
 assets/      → Diagrams and visuals
+
+---
+
+## What you will find here / Qué encontrarás aquí
+
+- Prompt design principles
+- Reusable prompt patterns
+- Evaluation and iteration strategies
+- Real-world business examples
+- Decision logs and trade-offs
+- Decision-support prompts
+- Evaluation and critique patterns
+- Business-oriented prompt structures
